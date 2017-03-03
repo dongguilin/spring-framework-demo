@@ -41,6 +41,7 @@ public class ElConfig {
     @Value("http://www.baidu.com")
     private Resource testUrl;
 
+    //注入配置文件属性
     @Value("${book.name}")
     private String bookName;
 
