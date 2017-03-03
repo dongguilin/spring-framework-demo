@@ -6,6 +6,7 @@
 * chapter2 ApplicationEvent
 * chapter3 异步任务(@EnableAsync、@Async)
 * chapter4 计划任务(@EnableScheduling、@Scheduled),单线程执行,强烈建议配合@Async异步执行
+* chapter5 条件注解（@Conditional)
 
 ***
 ##spring-aop
