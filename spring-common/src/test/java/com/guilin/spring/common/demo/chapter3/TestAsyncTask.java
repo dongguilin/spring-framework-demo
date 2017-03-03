@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 /**
  * Created by guilin on 2017/3/3.
- * 使用EnableAsync开启对异步任务的支持
+ * 异步任务(@EnableAsync、@Async)
  */
 @RunWith(SpringRunner.class)
 @ContextConfiguration(classes = TaskExecutorConfig.class)
