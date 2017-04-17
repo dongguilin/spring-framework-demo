@@ -13,6 +13,13 @@
 * chapter1 环绕通知
 * chapter2 通过DeclareParents注解引入新功能
 * chapter3 为通知传递参数
+* chapter4 
+    * ExecuteTimeAdvice 记录方法执行时长
+    * InvokeLogAdvice 方法调用前后、异常及结果返回时记录日志
+
+***
+##spring-jax-ws
+* chapter1 RMI
 
 
 
