@@ -15,7 +15,7 @@ public class SurroundAdvice {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(SurroundAdvice.class);
 
-    @Pointcut("execution(** com.guilin.spring.aop.demo.common.Performance.perform(..))")
+    @Pointcut("execution(* com.guilin.spring.aop.demo.common.Performance.perform(..))")
     public void pointCut() {
     }
 
